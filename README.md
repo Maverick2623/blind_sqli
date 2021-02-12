@@ -1,4 +1,4 @@
-# blind_sqli
+# Blind SQL injection basic automation script
 This basic script can be used to automate the process of exploiting blind SQL Injection to dump data
 
 ### Note: Change the following fields
